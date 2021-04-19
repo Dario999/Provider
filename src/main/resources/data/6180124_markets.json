@@ -1,0 +1,119 @@
+{
+  "eventId": 6180124,
+  "markets": [
+    {
+      "id": 100845,
+      "name": "Match Winner",
+      "outcomes": [
+        {
+          "id": 101845,
+          "name": "1",
+          "odds": 1.55,
+          "status": "Active"
+        },
+        {
+          "id": 102845,
+          "name": "2",
+          "odds": 3.45,
+          "status": "Active"
+        },
+        {
+          "id": 103845,
+          "name": "X",
+          "odds": 2.00,
+          "status": "Active"
+        }
+      ],
+      "isVariant": false
+    },
+    {
+      "id": 215845,
+      "name": "Total Goals",
+      "outcomes": [
+        {
+          "id": 2151845,
+          "name": "Over",
+          "odds": 3.95,
+          "status": "Settled"
+        },
+        {
+          "id": 2152845,
+          "name": "Under",
+          "odds": 2.35,
+          "status": "Settled"
+        }
+      ],
+      "specifier": "3.5",
+      "isVariant": false
+    },
+    {
+      "id": 216845,
+      "name": "Total Goals",
+      "outcomes": [
+        {
+          "id": 2151845,
+          "name": "Over",
+          "odds": 8.95,
+          "status": "Settled"
+        },
+        {
+          "id": 2152845,
+          "name": "Under",
+          "odds": 1.30,
+          "status": "Settled"
+        }
+      ],
+      "specifier": "4.5",
+      "isVariant": false
+    },
+    {
+      "id": 300845,
+      "name": "First Goalscorer",
+      "outcomes": [
+        {
+          "id": 303845,
+          "name": "Mason Mount",
+          "odds": 2.95,
+          "status": "Active"
+        },
+        {
+          "id": 304845,
+          "name": "Eddie Nketiah",
+          "odds": 2.74,
+          "status": "Active"
+        },
+        {
+          "id": 305845,
+          "name": "Gabriel Martinelli",
+          "odds": 3.44,
+          "status": "Stopped"
+        },
+        {
+          "id": 306845,
+          "name": "Pablo Mari",
+          "odds": 2.24,
+          "status": "Active"
+        },
+        {
+          "id": 307845,
+          "name": "Lucas Torreira",
+          "odds": 1.94,
+          "status": "Active"
+        },
+        {
+          "id": 308845,
+          "name": "Gabriel Martinelli",
+          "odds": 2.71,
+          "status": "Active"
+        },
+        {
+          "id": 309845,
+          "name": "Calum Chambers",
+          "odds": 2.83,
+          "status": "Stopped"
+        }
+      ],
+      "isVariant": true
+    }
+  ]
+}

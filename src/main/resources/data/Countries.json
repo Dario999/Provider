@@ -1,0 +1,47 @@
+[
+	{
+		"id" : 111111,
+		"name" : "England",
+		"sportId" : 11111
+	},
+	{
+		"id" : 111112,
+		"name" : "Spain",
+		"sportId" : 11111
+	},
+	{
+		"id" : 111113,
+		"name" : "France",
+		"sportId" : 11111
+	},
+	{
+		"id" : 111114,
+		"name" : "Italy",
+		"sportId" : 11111
+	},
+	{
+		"id" : 111115,
+		"name" : "Germany",
+		"sportId" : 11111
+	},
+	{
+		"id" : 111116,
+		"name" : "International",
+		"sportId" : 11115
+	},
+	{
+		"id" : 111117,
+		"name" : "US",
+		"sportId" : 11115
+	},
+	{
+		"id" : 111118,
+		"name" : "EU",
+		"sportId" : 11115
+	},
+	{
+		"id" : 111119,
+		"name" : "International",
+		"sportId" : 11112
+	}
+]

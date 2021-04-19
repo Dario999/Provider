@@ -1,0 +1,37 @@
+[
+	{
+		"id": 6180845,
+		"name" : "Manchester United - Arsenal",
+		"sd" : "2020-12-10T16:35:40.7294637Z",
+		"status" : "LIVE",
+		"leagueId" : "1111111"
+	},
+	{
+		"id": 6180865,
+		"name" : "Chelsea - Manchester City",
+		"sd" : "2020-12-14T13:30:00.7294637Z",
+		"status" : "Prematch",
+		"leagueId" : "1111111"
+	},
+	{
+		"id": 6180123,
+		"name" : "WBA - West Ham United",
+		"sd" : "2020-08-31T17:48:40.7294637Z",
+		"status" : "Ended",
+		"leagueId" : "1111111"
+	},
+	{
+		"id": 6180124,
+		"name" : "Fnatic - TSM",
+		"sd" : "2020-08-31T17:48:40.7294637Z",
+		"status" : "Ended",
+		"leagueId" : "1111115"
+	},
+	{
+		"id": 6180125,
+		"name" : "Bayern - Herta",
+		"sd" : "2020-12-14T13:30:00.7294637Z",
+		"status" : "Prematch",
+		"leagueId" : "1111114"
+	}
+]

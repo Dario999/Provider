@@ -1,0 +1,37 @@
+[
+	{
+		"id" : 1111111,
+		"name" : "Premier League",
+		"countryId" : 111111
+	},
+	{
+		"id" : 1111112,
+		"name" : "Championship League",
+		"countryId" : 111111
+	},
+	{
+		"id" : 1111113,
+		"name" : "League 2",
+		"countryId" : 111111
+	},
+	{
+		"id" : 1111114,
+		"name" : "Bundesliga",
+		"countryId" : 111115
+	},
+	{
+		"id" : 1111115,
+		"name" : "League of Legends - Mid Season Invitational",
+		"countryId" : 111116
+	},
+	{
+		"id" : 1111116,
+		"name" : "League of Legends - Europe",
+		"countryId" : 111117
+	},
+	{
+		"id" : 1111117,
+		"name" : "League of Legends - United States",
+		"countryId" : 111118
+	}
+]

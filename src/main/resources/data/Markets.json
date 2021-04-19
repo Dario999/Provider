@@ -1,0 +1,206 @@
+{
+  "eventId": 6180123,
+  "markets": [
+    {
+      "id": 100845,
+      "name": "Match Winner",
+      "marketTypeId" : 1,
+      "messageTimestamp": "2021-02-15T16:00:00.0000000Z",
+      "outcomes": [
+        {
+          "id": 101845,
+          "outcomeTypeId" : 1,
+          "name": "1",
+          "odds": 1.55,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 102845,
+          "outcomeTypeId" : 2,
+          "name": "2",
+          "odds": 3.45,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 103845,
+          "outcomeTypeId" : 3,
+          "name": "X",
+          "odds": 2.00,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        }
+      ],
+      "isVariant": false
+    },
+    {
+      "id": 205845,
+      "name": "Total Goals",
+      "marketTypeId": 2,
+      "messageTimestamp": "2021-02-15T16:00:00.0000000Z",
+      "outcomes": [
+        {
+          "id": 2051845,
+          "outcomeTypeId" : 4,
+          "name": "Over",
+          "odds": 3.85,
+          "status": "Stopped",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 2052845,
+          "outcomeTypeId" : 5,
+          "name": "Under",
+          "odds": 1.2,
+          "status": "Stopped",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        }
+      ],
+      "specifier": "2.5",
+      "isVariant": false
+    },
+    {
+      "id": 216845,
+      "name": "Total Goals",
+      "marketTypeId": 2,
+      "messageTimestamp": "2021-02-15T16:00:00.0000000Z",
+      "outcomes": [
+        {
+          "id": 2151845,
+          "outcomeTypeId" : 4,
+          "name": "Over",
+          "odds": 8.95,
+          "status": "Settled",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 2152845,
+          "outcomeTypeId" : 5,
+          "name": "Under",
+          "odds": 1.30,
+          "status": "Settled",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        }
+      ],
+      "specifier": "4.5",
+      "isVariant": false
+    },
+    {
+      "id": 320845,
+      "name": "HALFTIME/FULLTIME & TOTAL GOALS",
+      "marketTypeId": 3,
+      "messageTimestamp": "2021-02-15T16:00:00.0000000Z",
+      "outcomes": [
+        {
+          "id": 301855,
+          "outcomeTypeId" : 6,
+          "name": "1/1 & Over 1.5",
+          "odds": 6.45,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 311855,
+          "outcomeTypeId" : 7,
+          "name": "1/1 & Under 1.5",
+          "odds": 2.45,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        }
+      ],
+      "specifiers": {
+        "Halftime/Fulltime": "1/1",
+        "Total goals": 1.5
+      },
+      "isVariant": false
+    },
+    {
+      "id": 302845,
+      "name": "HALFTIME/FULLTIME & TOTAL GOALS",
+      "marketTypeId": 3,
+      "messageTimestamp": "2021-02-15T16:00:00.0000000Z",
+      "outcomes": [
+        {
+          "id": 321855,
+          "outcomeTypeId" : 8,
+          "name": "1/X & Over 2.5",
+          "odds": 5.45,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 331855,
+          "outcomeTypeId" : 9,
+          "name": "1/X & Under 2.5",
+          "odds": 6.30,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        }
+      ],
+      "specifiers": {
+        "Halftime/Fulltime": "1/X",
+        "Total goals": 2.5
+      },
+      "isVariant": false
+    },
+    {
+      "id": 300845,
+      "name": "First Goalscorer",
+      "marketTypeId": 4,
+      "messageTimestamp": "2021-02-15T16:00:00.0000000Z",
+      "outcomes": [
+        {
+          "id": 301845,
+          "name": "Thiago Silvia",
+          "odds": 1.45,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 302845,
+          "name": "Timo Werner",
+          "odds": 8.95,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 305845,
+          "name": "Gabriel Martinelli",
+          "odds": 3.44,
+          "status": "Stopped",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 306845,
+          "name": "Pablo Mari",
+          "odds": 2.24,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 307845,
+          "name": "Lucas Torreira",
+          "odds": 1.94,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 308845,
+          "name": "Gabriel Martinelli",
+          "odds": 2.71,
+          "status": "Active",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        },
+        {
+          "id": 309845,
+          "name": "Calum Chambers",
+          "odds": 2.83,
+          "status": "Stopped",
+          "messageTimestamp": "2021-02-15T16:00:00.0000000Z"
+        }
+      ],
+      "isVariant": true
+    }
+  ]
+}

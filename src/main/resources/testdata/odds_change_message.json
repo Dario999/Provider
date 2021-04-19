@@ -1,0 +1,236 @@
+{
+  "eventId": 660,
+  "payload": {
+    "markets": [
+      {
+        "id": 100660,
+        "name": "Match Winner",
+        "marketTypeId": 1,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 101660,
+            "name": "1",
+            "outcomeTypeId": 1,
+            "odds": 1.85,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 103660,
+            "name": "X",
+            "outcomeTypeId": 3,
+            "odds": 3.2,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 102660,
+            "outcomeTypeId": 2,
+            "name": "2",
+            "odds": 4.77,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ]
+      },
+      {
+        "id": 200660,
+        "name": "Total Goals",
+        "specifier": "0.5",
+        "marketTypeId": 2,
+        "isVariant": false,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 201660,
+            "name": "Over",
+            "outcomeTypeId": 4,
+            "odds": 1.13,
+            "status": "Settled",
+            "settlement": "Winning",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 202660,
+            "name": "Under",
+            "outcomeTypeId": 5,
+            "odds": 6.84,
+            "status": "Settled",
+            "settlement": "Losing",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ]
+      },
+      {
+        "id": 300660,
+        "name": "Total Goals",
+        "specifier": "1.5",
+        "marketTypeId": 2,
+        "isVariant": false,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 301660,
+            "outcomeTypeId": 4,
+            "name": "Over",
+            "odds": 2.61,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 302660,
+            "outcomeTypeId": 5,
+            "name": "Under",
+            "odds": 3.93,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ]
+      },
+      {
+        "id": 400660,
+        "name": "Total Goals",
+        "specifier": "2.5",
+        "marketTypeId": 2,
+        "isVariant": false,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 401660,
+            "name": "Over",
+            "outcomeTypeId": 4,
+            "odds": 4.22,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 402660,
+            "name": "Under",
+            "outcomeTypeId": 5,
+            "odds": 3.99,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ]
+      },
+      {
+        "id": 500660,
+        "name": "HALFTIME/FULLTIME & TOTAL GOALS",
+        "marketTypeId": 3,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 501660,
+            "outcomeTypeId": 6,
+            "name": "1/1 & Over 1.5",
+            "odds": 6.45,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 502660,
+            "outcomeTypeId": 7,
+            "name": "1/1 & Under 1.5",
+            "odds": 2.45,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ],
+        "specifiers": {
+          "Halftime/Fulltime": "1/1",
+          "Total goals": 1.5
+        },
+        "isVariant": false
+      },
+      {
+        "id": 600660,
+        "name": "HALFTIME/FULLTIME & TOTAL GOALS",
+        "marketTypeId": 3,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 601660,
+            "outcomeTypeId": 8,
+            "name": "1/X & Over 2.5",
+            "odds": 5.45,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 602660,
+            "outcomeTypeId": 9,
+            "name": "1/X & Under 2.5",
+            "odds": 6.3,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ],
+        "specifiers": {
+          "Halftime/Fulltime": "1/X",
+          "Total goals": 2.5
+        },
+        "isVariant": false
+      },
+      {
+        "id": 700660,
+        "name": "First Goalscorer",
+        "marketTypeId": 4,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 701660,
+            "name": "Goran Pandev",
+            "odds": 1.45,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 702660,
+            "name": "Stefan Ristovski",
+            "odds": 8.95,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 703660,
+            "name": "Ilija Nestorovski",
+            "odds": 3.44,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 704660,
+            "name": "Ezgjan Alioski",
+            "odds": 2.24,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 705660,
+            "name": "Elif Elmas",
+            "odds": 1.94,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 706660,
+            "name": "Aleksandar Trajkovski",
+            "odds": 2.71,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 707660,
+            "name": "Adrijan Ademi",
+            "odds": 2.83,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ],
+        "isVariant": true
+      }
+    ]
+  },
+  "type": "ODDS_CHANGE"
+}

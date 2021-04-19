@@ -1,0 +1,98 @@
+{
+  "eventId": 660,
+  "payload": {
+    "markets": [
+      {
+        "id": 100660,
+        "name": "Match Winner",
+        "marketTypeId": 1,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 101660,
+            "name": "1",
+            "outcomeTypeId": 1,
+            "odds": 1.85,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 103660,
+            "name": "X",
+            "outcomeTypeId": 3,
+            "odds": 3.2,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 102660,
+            "name": "2",
+            "outcomeTypeId": 2,
+            "odds": 4.77,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ]
+      },
+      {
+        "id": 700660,
+        "isVariant": true,
+        "name": "First Goalscorer",
+        "marketTypeId": 4,
+        "messageTimestamp": "2021-02-16T16:00:00.0000000Z",
+        "outcomes": [
+          {
+            "id": 701660,
+            "name": "Goran Pandev",
+            "odds": 1.45,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 702660,
+            "name": "Stefan Ristovski",
+            "odds": 8.95,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 703660,
+            "name": "Ilija Nestorovski",
+            "odds": 3.44,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 704660,
+            "name": "Ezgjan Alioski",
+            "odds": 2.24,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 705660,
+            "name": "Elif Elmas",
+            "odds": 1.94,
+            "status": "Active",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 706660,
+            "name": "Aleksandar Trajkovski",
+            "odds": 2.71,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          },
+          {
+            "id": 707660,
+            "name": "Adrijan Ademi",
+            "odds": 2.83,
+            "status": "Stopped",
+            "messageTimestamp": "2021-02-16T16:00:00.0000000Z"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "BET_STOP"
+}
